@@ -179,3 +179,62 @@ img {
     font-size: 15px;
     color: #666666;
 }
+
+.second-brain-section {
+    padding: 100px 0;
+    background-color: white;
+}
+
+.second-container {
+    display: flex;
+    align-items: center;
+    gap: 80px;
+}
+
+.img {
+    flex: 1 1 auto;
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    flex: 1;
+}
+
+.title {
+    display: block;
+    font-size: 14px;
+    font-weight: 700;
+    color: #30B868;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+}
+
+.content h2 {
+    font-size: 40px;
+    line-height: 1.2;
+    margin-bottom: 25px;
+    color: #001931;
+}
+
+.text {
+    font-size: 17px;
+    color: #627382;
+    margin-bottom: 30px;
+}
+
+.feature-list {
+    list-style: none;
+}
+
+.feature-list li {
+    margin-bottom: 15px;
+    font-weight: 500;
+    color: black;
+    display: flex;
+    align-items: center;
+}
+
